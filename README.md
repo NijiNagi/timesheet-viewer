@@ -1,7 +1,7 @@
 # Timesheet Reconciliation Viewer
 
 ## How to Use:
-1. Open: https://YOUR-USERNAME.github.io/timesheet-viewer/Viewer.html
+1. Open: https://nijinagi.github.io/timesheet-viewer/Viewer.html
 2. Drag and drop your `reconciliation_viewer_data.json` file
 3. Investigate discrepancies
 
